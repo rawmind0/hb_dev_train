@@ -25,11 +25,11 @@ This the hobbyfarm scenario for dev train.
     * Pushing app image
   * Creating pipeline
 * Continuous Delivery
-  * Upgrade strategy
   * Kubernetes manifest
-	* deployment/daemonset file
-	* service file
-	* ingress file
+    * Upgrade strategy
+	  * deployment/daemonset file
+	  * service file
+	  * ingress file
   * Helm chart
     * Creating repo
     * Creating app chart
